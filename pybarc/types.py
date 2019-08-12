@@ -1,0 +1,2 @@
+class BarcodeArgumentException(Exception):
+    pass
