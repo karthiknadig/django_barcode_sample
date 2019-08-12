@@ -139,7 +139,6 @@ EAN_STYLES_MODULE_Y = {
 
 # (left-buffer, start, left, mid, right, end, right-buffer)
 EAN_STYLES_TEXT_Y = {
-    EAN_STYLE_BARCODE_ONLY: None,
     EAN_STYLE_BARCODE_ONLY: (0, 0, 0, 0, 0, 0, 0),
     EAN_STYLE_BARCODE_WITH_NUMBERS_BELOW: ('88%', '88%', '88%', '88%', '88%', '88%', '88%'),
     EAN_STYLE_BARCODE_WITH_NUMBERS_ABOVE: ('3%', '3%', '3%', '3%', '3%', '3%', '3%'),
